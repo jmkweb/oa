@@ -1,0 +1,11 @@
+data/database/*
+data/uploads/head/*
+data/uploads/2014/*
+data/uploads/2014/!04
+data/uploads/2014/!05
+.tags
+.tags_sorted_by_file
+install.lock
+update.txt
+*.zip
+*.tar
